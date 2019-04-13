@@ -1,0 +1,330 @@
+commit d7ab49173026525d7291147f9a28bfd7b8b357f3
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Wed Jan 16 22:44:12 2019 +0200
+
+    mutex works
+
+commit 40c3feaa53b2ff178c9351812311408dc46369dd
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 16 11:41:06 2019 -0800
+
+    nodes and trail cost 16.1
+
+commit 3032193a4ed73d559381c97ad342738e9e6fd579
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 16 08:49:08 2019 -0800
+
+    nodes and trail cost 16.1
+
+commit 1ae997e489d6024e37dec2c48d5032b67be792e6
+Merge: 4fad0d7 0d8d05d
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Wed Jan 16 16:40:11 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 4fad0d750a47265a13f67e56744078cc39f95d09
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Wed Jan 16 16:38:58 2019 +0200
+
+    cash menager workss :)))
+
+commit 0d8d05db3aa66b69bad6ca29488f72eb6d3dc344
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 16 03:20:52 2019 -0800
+
+    A Star fix 16.1
+
+commit e5e83bcd28d589b8b8ee00c5d82cbdb1d3dca08b
+Author: Almog <almoggueta1@gmail.com>
+Date:   Tue Jan 15 17:31:18 2019 -0800
+
+    A Star Algoritm search 15.1
+
+commit 5c22f0266e5ed6f006ff72b9fabb24b7084b4e10
+Merge: b8b15b1 7939625
+Author: Almog <almoggueta1@gmail.com>
+Date:   Tue Jan 15 10:03:08 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       CMakeLists.txt
+
+commit b8b15b18c17a66c0f8d7d60b56dde92070fac60e
+Author: Almog <almoggueta1@gmail.com>
+Date:   Tue Jan 15 10:00:53 2019 -0800
+
+    best first search 15.1
+
+commit 79396250f0d180caaeb81e3a09cc9ee21f5a0e7d
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Tue Jan 15 17:16:23 2019 +0200
+
+    parallel works!
+
+commit a99119adb3490b9f614663c94f79f7265c57eb51
+Author: Almog <almoggueta1@gmail.com>
+Date:   Mon Jan 14 10:27:20 2019 -0800
+
+    bfs search 14.1
+
+commit 51e8064b8d65bf68e10e4e21f35b63fef5f07408
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Mon Jan 14 19:02:58 2019 +0200
+
+    dfs
+
+commit bc1c7fd61b89e7e66cb49d0f82a39d6fe5cd5398
+Author: Almog <almoggueta1@gmail.com>
+Date:   Mon Jan 14 08:48:00 2019 -0800
+
+    dfs search 14.1
+
+commit c09219f77ab7c0ba3c261c1eff0eb614226bf43e
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Mon Jan 14 18:10:22 2019 +0200
+
+    dfs
+
+commit 90fb30916a3f66a55bc67997a71af68dae0f513f
+Author: Almog <almoggueta1@gmail.com>
+Date:   Mon Jan 14 06:59:53 2019 -0800
+
+    dfs search 14.1
+
+commit edbe87ae6ea459652fe35662d3f513b67031e037
+Merge: 0814d11 8dc7ec0
+Author: Almog <almoggueta1@gmail.com>
+Date:   Mon Jan 14 06:58:24 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       ISearcher.h
+
+commit 8dc7ec0a1699184c8d8d1b35fbb9b83979f42645
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Mon Jan 14 16:56:59 2019 +0200
+
+    matrix and point changes
+
+commit 0814d11db235e0d83dc815d67e80deb00982df8b
+Author: Almog <almoggueta1@gmail.com>
+Date:   Mon Jan 14 06:53:58 2019 -0800
+
+    dfs search 14.1
+
+commit dad1b30b82acfcf34b1d3f18dbef3cee35889eb6
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Mon Jan 14 13:38:18 2019 +0200
+
+    matrix and point changes
+
+commit a8320c0aa5b44a204d747ea45b10ea47072a35e9
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Mon Jan 14 13:07:16 2019 +0200
+
+    matrix changes
+
+commit be8337f78d527685aca8335ea6bdb86152e0055c
+Merge: 40ba0b4 4572360
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Sun Jan 13 20:48:14 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 40ba0b48dae855817da281499ac59bca0cb2a04b
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Sun Jan 13 20:47:52 2019 +0200
+
+    Isearchable state
+
+commit 457236079d07a766e09ad42bf366288a570a2bed
+Author: Almog <almoggueta1@gmail.com>
+Date:   Fri Jan 11 06:27:05 2019 -0800
+
+    bfs search first update 11.1
+
+commit f36dd553614295a6a8351618502998d13ddadf6b
+Author: Almog <almoggueta1@gmail.com>
+Date:   Fri Jan 11 06:19:13 2019 -0800
+
+    bfs search first update 11.1
+
+commit 3e6e1fe0eff206b521d48787c64e3af725ef3521
+Author: Almog <almoggueta1@gmail.com>
+Date:   Fri Jan 11 05:46:24 2019 -0800
+
+    dfs search first update 11.1
+
+commit 4a4246dae92a9bed9b54707ec352b81bcd5a4c9c
+Author: Almog <almoggueta1@gmail.com>
+Date:   Fri Jan 11 05:42:06 2019 -0800
+
+    dfs search first update 11.1
+
+commit a6c24c451cef2c98e167185396f39bf6a329514a
+Merge: 1675b83 9f4db5b
+Author: Almog <almoggueta1@gmail.com>
+Date:   Fri Jan 11 05:41:27 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       ISearchable.h
+    #       Searchable.h
+    #       State.h
+
+commit 1675b83bd294872279328759dfca016f041a4f22
+Author: Almog <almoggueta1@gmail.com>
+Date:   Fri Jan 11 05:38:44 2019 -0800
+
+    dfs search first update 11.1
+
+commit 9f4db5bb02b863762bd85a4b5a1af0629e9ec169
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Fri Jan 11 13:40:07 2019 +0200
+
+    matrix changes
+
+commit a78218c981bedf92662c36a721f9d91f0543ab08
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Fri Jan 11 11:45:32 2019 +0200
+
+    matrix changes
+
+commit ff6a66cd393b95b6137095dbf1cf12670b8caad4
+Author: Almog <almoggueta1@gmail.com>
+Date:   Thu Jan 10 14:12:01 2019 -0800
+
+    Problem and Solution cache file update 10.1
+
+commit 8b499e48322b1f9f32878bda5e93594058e74d8f
+Author: Almog <almoggueta1@gmail.com>
+Date:   Thu Jan 10 13:59:42 2019 -0800
+
+    Problem and Solution cache file update 10.1
+
+commit 1e0a50b7e1479ed603e75942c4ba159b9f84a848
+Merge: 5a75bef 91d9e4c
+Author: Almog <almoggueta1@gmail.com>
+Date:   Thu Jan 10 05:43:42 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+
+commit 5a75bef2e0633f0940d91016bdf5346d43137a1d
+Author: Almog <almoggueta1@gmail.com>
+Date:   Thu Jan 10 05:43:20 2019 -0800
+
+    state equal
+
+commit 91d9e4c43fc03fb545e8cbb1eb00958b5a38ea0a
+Merge: 46deb2b efc31ce
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Thu Jan 10 13:25:11 2019 +0200
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       main.cpp
+
+commit 46deb2b04db7435ee043f618132a4b50b3bd7a23
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Thu Jan 10 13:23:18 2019 +0200
+
+    connect
+
+commit efc31ce6fcb38fd42add2b7c855ed97d2ba8c4fd
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 12:54:15 2019 -0800
+
+    state equal
+
+commit af74977e0ce938fbe0d99aef695cffd9200edc81
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 12:36:40 2019 -0800
+
+    update solver return not pointer
+
+commit 36c94219b493c9de8d6dcd02a01a81c4730c45f0
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 12:33:50 2019 -0800
+
+    update solver return not pointer
+
+commit 2359d27910f07803dfceaa8f0f18000ce9ceaeb9
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 08:29:37 2019 -0800
+
+    update
+
+commit 90b815d2341f34120c83ca2a64db30cdf22a349e
+Merge: 3eb2052 1f1e54f
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 08:05:16 2019 -0800
+
+    Merge remote-tracking branch 'origin/master'
+    
+    # Conflicts:
+    #       StringReverser.h
+
+commit 3eb2052528384411bb80f66c95626d08d962b6df
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 08:04:34 2019 -0800
+
+    update
+
+commit 6b47713711995cb2a53759ea18d6e86bccc6b92e
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 08:01:10 2019 -0800
+
+    searcher and searchable
+
+commit 1f1e54ff03e377f50b9572ce355d51ada1100683
+Author: Chagit stupel <chagitstupel@gmail.com>
+Date:   Wed Jan 9 17:55:15 2019 +0200
+
+    connect
+
+commit f30ff16b9304fed348dbbe5b0fbd013d9560866b
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 02:47:33 2019 -0800
+
+    searcher and searchable
+
+commit 535574bbc5c7205ed9a2a5982dbea766fc439ac0
+Author: Almog <almoggueta1@gmail.com>
+Date:   Wed Jan 9 02:30:47 2019 -0800
+
+    searcher and searchable
+
+commit ee3fb82a025924d08fdaddb0503e25f3eeb959f7
+Author: Almog <almoggueta1@gmail.com>
+Date:   Mon Jan 7 06:30:20 2019 -0800
+
+    files
+
+commit 04dc61fbf9f1d6e15fcbd0e1e08a4ff22c759b4b
+Author: Almog <almoggueta1@gmail.com>
+Date:   Mon Jan 7 02:13:00 2019 -0800
+
+    Templates
+
+commit 0a7798ce662e27145b3787f449688704d8615928
+Author: Almog <almoggueta1@gmail.com>
+Date:   Thu Jan 3 08:05:01 2019 -0800
+
+    Server beginig
+
+commit 28e874c4221d8325fafd24efbe43c9fc4ef82022
+Author: Almog <almoggueta1@gmail.com>
+Date:   Thu Jan 3 07:03:47 2019 -0800
+
+    First
+
+commit dec07f07ae13dd6406e4311beb74d309aa06a35b
+Author: Almog <almoggueta1@gmail.com>
+Date:   Thu Jan 3 04:11:02 2019 -0800
+
+    Initial commit
